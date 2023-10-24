@@ -21,5 +21,5 @@ Here, I will conduct a statistical test to see whether the variables qualify for
 #### 2.2.1. Information Value - Categorical Variables
 ### 2.3. Data Visualisation
 #### 2.3.1. Business and operational situation
-<img src="https://imgur.com/a/QX4UYsn">
+<img src="https://imgur.com/UFN9p4j">
 
